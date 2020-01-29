@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/kuliner-cikuda/static/css/main.f9086cdd.chunk.css",
+    "main.js": "/kuliner-cikuda/static/js/main.8e9a8b99.chunk.js",
+    "main.js.map": "/kuliner-cikuda/static/js/main.8e9a8b99.chunk.js.map",
+    "runtime-main.js": "/kuliner-cikuda/static/js/runtime-main.05e20914.js",
+    "runtime-main.js.map": "/kuliner-cikuda/static/js/runtime-main.05e20914.js.map",
+    "static/js/2.82b46302.chunk.js": "/kuliner-cikuda/static/js/2.82b46302.chunk.js",
+    "static/js/2.82b46302.chunk.js.map": "/kuliner-cikuda/static/js/2.82b46302.chunk.js.map",
+    "index.html": "/kuliner-cikuda/index.html",
+    "precache-manifest.d4d3bc83044f099e10dd185135992940.js": "/kuliner-cikuda/precache-manifest.d4d3bc83044f099e10dd185135992940.js",
+    "service-worker.js": "/kuliner-cikuda/service-worker.js",
+    "static/css/main.f9086cdd.chunk.css.map": "/kuliner-cikuda/static/css/main.f9086cdd.chunk.css.map",
+    "static/js/2.82b46302.chunk.js.LICENSE": "/kuliner-cikuda/static/js/2.82b46302.chunk.js.LICENSE",
+    "static/media/aneka-makanan.png": "/kuliner-cikuda/static/media/aneka-makanan.1a85ce20.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.05e20914.js",
+    "static/js/2.82b46302.chunk.js",
+    "static/css/main.f9086cdd.chunk.css",
+    "static/js/main.8e9a8b99.chunk.js"
+  ]
+}
